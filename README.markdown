@@ -1,3 +1,12 @@
+
+
+New lines - 
+
+1
+2
+3
+
+
 Drag and drop a 10.7+ installer onto the app and it'll create an installer package that creates and updates Recovery partitions. The app with automatically download the required dmtest and cocoaDialog utilities the first time it's run.
 
 
